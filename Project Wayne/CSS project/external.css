@@ -1,0 +1,23 @@
+h1{
+  color: blue;
+  
+ text-align: center;
+}
+
+p{
+  background-color: gold ;
+}
+/*id*/
+#article1{
+  color: green;
+}
+/*class*/
+.parag{
+  color: chartreuse;
+  background-color: black ;
+
+  /*group*/
+}
+p,article{
+  width: 500px;
+}

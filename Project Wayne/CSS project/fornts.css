@@ -1,0 +1,24 @@
+h2{
+  background-color: #46e706b4;
+  border: 2px brown solid;
+}
+p{
+  font-size: 25px;
+  font-style:oblique;
+  font-family: cursive;
+  font-weight: 200;
+
+  
+border: 2px brown solid;
+} 
+#para1{
+ color: rgb(45, 236, 6);
+ background-color: black;
+   
+}
+
+#para2{
+  color: hsl(0, 91%, 27%);
+background: #46e706b4;
+
+}
